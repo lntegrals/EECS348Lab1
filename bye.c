@@ -8,7 +8,7 @@
 
 int main(void) {  
     // Print the message to the console
-    printf("hello world\n");
+    printf("bye world\n");
 
     return 0; // Indicate that the program ended successfully
 }
